@@ -14,3 +14,20 @@ kelurahan Caringin Wetan dan kelurahan Gunungparang tahun 2015. Model pohon kepu
 yang dihasilkan dari penerapan algoritma C5.0 dengan pengolahan data menggunakan SPSS
 itu dapat digunakan pada aplikasi penentuan penerimaan beras raskin yang akan di gunakan
 oleh pihak tertentu.
+
+Identifikasi Kebutuhan Perangkat Lunak
+Perangkat Lunak yang dirancang merupakan Sistem Informasi Pendataan Penerimaan Beras Bagi Warga Miskin merupakan salah satu teknologi yang dapat membantu petugas maupun pemerintah dalam melakukan program bantuan sosial kepada masyarakat miskin atau kurang mampu.
+Kebutuhan Fungsional
+Sistem dapat menginput data-data dari setiap warga
+Sistem dapat menentukan perbedaan dari setiap warga yang layak menerima beras miskin atau tidak
+Sistem menyediakan fitur SPSS (Statistical Product and Service Solution) sehingga data yang di input tidak menghasilkan output yang duplicate
+Kebutuhan Non-Fungsional
+Usability
+Desain Antarmuka perangkat lunak dirancang secara sederhana sehingga dapat dipahami oleh pengguna. Aplikasi juga berbasis android sehingga dapat diakses langsung dari smartphone pengguna.
+Portability
+Perangkat lunak yang digunakan cukup membutuhkan waktu yang singkat.
+Reliability
+Sistem harus dapat memastikan bahwa data yang digunakan dalam sistem harus terlindung dari akses yang tidak berwenang
+Supportability.
+Sistem dapat diakses menggunakan banyak smartphone.
+
