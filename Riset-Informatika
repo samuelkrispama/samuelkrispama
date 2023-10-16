@@ -1,0 +1,16 @@
+Masalah kemiskinan merupakan salah satu persoalan mendasar yang menjadi pusat perhatian
+pemerintah di negara manapun. Program Raskin (program penyaluran untuk keluarga miskin)
+adalah program dari Pemerintah. Program tersebut adalah sebuah upaya untuk mengurangi
+beban penyaluran dari rumah tangga miskin sebagai bentuk dukungan dalam meningkatkan
+ketahanan pangan dengan memberikan perlindungan sosial beras murah dengan jumlah
+maksimal 15 kg/rumah tangga miskin/bulan dengan masing-masing harga Rp.1.600,00 per kg
+(netto) di titik distribusi. Dengan adanya sistem yang mampu membantu untuk membantu
+menentukan keputusan, keputusan yang diambil akan lebih objektif. Hal tersebut sangat
+berperan penting terhadap pengambilan keputusan yang tepat sasaran pada sebuah kasus
+atau masalah. Pada penelitian ini sistem pendukung keputusan digunakan untuk penerimaan
+beras masyarakat miskin. Algoritma yang digunakan pada sistem pendukung keputusan yaitu
+algoritma C5.0 dengan model klasifikasi tree. Penerapan algoritma C5.0 pada dataset
+kelurahan Caringin Wetan dan kelurahan Gunungparang tahun 2015. Model pohon keputusan
+yang dihasilkan dari penerapan algoritma C5.0 dengan pengolahan data menggunakan SPSS
+itu dapat digunakan pada aplikasi penentuan penerimaan beras raskin yang akan di gunakan
+oleh pihak tertentu.
